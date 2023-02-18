@@ -1,6 +1,6 @@
 # Week 0 — Billing and Architecture
 
-WOrkspace for Week 0:
+Workspace for Week 0:
 Learned about spending cost, best mdoels for cut purposes for business which wouldnt compromise theor bottom line
 Used and config Cloud trail and Watch on Aws
 Set budget caps for spending and monitoring resources 
